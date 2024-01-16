@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\C#_DEV\DEV\Lab06_3\bin\Debug\net6.0\Lab06_3.exe
+C:\Users\Asus\Desktop\C#_DEV\DEV\Lab06_3\bin\Debug\net6.0\Lab06_3.deps.json
+C:\Users\Asus\Desktop\C#_DEV\DEV\Lab06_3\bin\Debug\net6.0\Lab06_3.runtimeconfig.json
+C:\Users\Asus\Desktop\C#_DEV\DEV\Lab06_3\bin\Debug\net6.0\Lab06_3.dll
+C:\Users\Asus\Desktop\C#_DEV\DEV\Lab06_3\bin\Debug\net6.0\Lab06_3.pdb
+C:\Users\Asus\Desktop\C#_DEV\DEV\Lab06_3\obj\Debug\net6.0\Lab06_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\C#_DEV\DEV\Lab06_3\obj\Debug\net6.0\Lab06_3.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\C#_DEV\DEV\Lab06_3\obj\Debug\net6.0\Lab06_3.AssemblyInfo.cs
+C:\Users\Asus\Desktop\C#_DEV\DEV\Lab06_3\obj\Debug\net6.0\Lab06_3.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C#_DEV\DEV\Lab06_3\obj\Debug\net6.0\Lab06_3.dll
+C:\Users\Asus\Desktop\C#_DEV\DEV\Lab06_3\obj\Debug\net6.0\refint\Lab06_3.dll
+C:\Users\Asus\Desktop\C#_DEV\DEV\Lab06_3\obj\Debug\net6.0\Lab06_3.pdb
+C:\Users\Asus\Desktop\C#_DEV\DEV\Lab06_3\obj\Debug\net6.0\Lab06_3.genruntimeconfig.cache
+C:\Users\Asus\Desktop\C#_DEV\DEV\Lab06_3\obj\Debug\net6.0\ref\Lab06_3.dll
